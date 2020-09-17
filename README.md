@@ -12,12 +12,12 @@ on [envName]                 activate the env called envName
 off                          desactivate nodejs env manager 
 
 Main packages used in this code:
-> GUI : easygui
-> HTML parser : lxml
-> System calls: win32api
-> Zip files management : zipfile
-> Network calls : requests
-> Locale management: gettext
+* GUI : easygui
+* HTML parser : lxml
+* System calls: win32api
+* Zip files management : zipfile
+* Network calls : requests
+* Locale management: gettext
 
 All the code is in the main.py file.
 
