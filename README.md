@@ -22,10 +22,10 @@ Main packages used in this code:
 All the code is in the main.py file.
 
 Files & Directories : 
-img/        images used by the application - Do not modify
-locales/    traduction of french words (locale) - only French and English are available - Do not modify
-intall.bat  a batch script used by the programm. Do not use manually
-main.py     core code source (all in one....)
-bin/        contains a binary version of this tool... Unzip and enjoy...
+* img/        images used by the application - Do not modify
+* locales/    traduction of french words (locale) - only French and English are available - Do not modify
+* intall.bat  a batch script used by the programm. Do not use manually
+* main.py     core code source (all in one....)
+* bin/        contains a binary version of this tool... Unzip and enjoy...
 
 Feel free to send me your remarks or evolutions/modifications
