@@ -28,4 +28,4 @@ Files & Directories :
 * main.py     core code source (all in one....)
 * bin/        contains a binary version of this tool... Unzip and enjoy...
 
-Feel free to send me your remarks or evolutions/modifications
+Feel free to send me your remarks or evolutions/modifications 
